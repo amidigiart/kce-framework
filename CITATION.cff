@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+type: article
+title: "Knowledge Continuity Engineering: A Framework for Persistent Knowledge Across Human and AI Generations"
+authors:
+  - family-names: Roșca
+    given-names: Mihai
+    orcid: "https://orcid.org/0009-0001-1422-6209"
+    affiliation: "Independent Researcher, BRIDGRAI Ecosystem"
+    city: Brăila
+    country: RO
+date-released: "2026-09-09"
+license: CC-BY-4.0
+keywords:
+  - knowledge continuity
+  - AI governance
+  - provenance engineering
+  - semantic persistence
+  - model discontinuity
+  - post-quantum cryptography
+  - human-AI co-creation
+abstract: >
+  This paper introduces Knowledge Continuity Engineering (KCE), a proposed
+  discipline that treats knowledge continuity as a first-class engineering
+  concern. We identify five core problems (model discontinuity, human
+  discontinuity, provenance decay, semantic drift, authority fragmentation),
+  propose seven design principles and a five-layer reference architecture,
+  and describe BRIDGRAI as a working reference implementation developed
+  over 3.5 years.
+repository-code: "https://github.com/amidigiart/kce-framework"
