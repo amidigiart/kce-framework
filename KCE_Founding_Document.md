@@ -155,7 +155,7 @@ BRIDGRAI is, as of this writing, the first implementation of KCE principles in a
 |---|---|---|
 | L1: Creation | Harvest methodology, AI contribution tracking, Git authorship | Active |
 | L2: Validation | TVE Core (6-pillar semantic validation), Backbone (Ω-7 invariants) | Functional (v0.1 heuristic) |
-| L3: Persistence | Tezos blockchain (125 assets), HASN (PostgreSQL + AES-256-GCM), UKBE Core (ML-DSA-87 signing) | Active |
+| L3: Persistence | Tezos blockchain (132 assets), HASN (PostgreSQL + AES-256-GCM), UKBE Core (ML-DSA-87 signing) | Active |
 | L4: Governance | CASP (covenants), HumanAnchor, CIaaS Legal Framework | Partial (legal structure pending) |
 | L5: Continuity | Succession planning for Patrick, dual licensing (AGPL-3.0 + commercial) | In progress |
 
