@@ -10,6 +10,7 @@ ORCID: 0009-0001-1422-6209
 **License:** CC BY 4.0
 
 **Version:** 1.1 (2026-10-02): UKBE Core license updated to proprietary (sections L5 tables and Competing interests); no other change.
+
 ---
 
 ## Abstract
